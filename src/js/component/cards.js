@@ -7,7 +7,7 @@ const animals = [
 	{ label: "Elephant" },
 	{ label: "Monkey" }
 ];
-
+//este cambio
 //hacer una variable para los objectos
 //hacer una function de map
 //se agrega donde se van a enviar
